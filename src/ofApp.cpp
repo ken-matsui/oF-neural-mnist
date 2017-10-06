@@ -122,7 +122,7 @@ void ofApp::draw(){
     cam.begin();
     // Adjust display.
     ofRotateZ(-90);
-    x
+    
     neural->draw();
     
     cam.end();
